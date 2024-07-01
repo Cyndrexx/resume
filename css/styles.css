@@ -323,4 +323,10 @@ SubTitle "Information Technology Da"
 		font-family: arial;
 		width:90vw;
 	}
+	#skills{
+    font-size: 18px;
+    padding-left: 7vw;
+    padding-right: 2vw;
+    
+}
 }
